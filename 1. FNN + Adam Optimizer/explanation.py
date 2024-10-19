@@ -2,6 +2,8 @@
 
 The code is using a basic feedforward neural network (FNN) or fully connected neural network (FCNN) for classification, implemented with Keras (part of TensorFlow).
 
+The model uses the Adam optimizer and categorical crossentropy loss, which is standard for multi-class classification tasks.
+                                                                                                                                                
 Data Preparation:
 The script loads Biological Vital Parameter (BVP) data from .mat files located in a specified directory.
 It pads or truncates each data sample to ensure a fixed number of time steps (fixed_time_steps).
