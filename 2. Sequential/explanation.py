@@ -1,3 +1,5 @@
+After 100 epoch, accuracy = 49.7%
+
 Data Preparation:
 
 The code traverses through a directory structure to find .mat files, extracting data labeled as velocity_spectrum_ro from them.
