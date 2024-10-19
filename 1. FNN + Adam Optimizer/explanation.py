@@ -1,3 +1,8 @@
+51.34%
+
+<br>
+ <br>
+
 Data Preparation:
 The script loads Biological Vital Parameter (BVP) data from .mat files located in a specified directory.
 It pads or truncates each data sample to ensure a fixed number of time steps (fixed_time_steps).
