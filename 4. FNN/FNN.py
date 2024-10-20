@@ -1,3 +1,5 @@
+#53.66% for 10epoch
+
 import os
 import numpy as np
 import scipy.io
